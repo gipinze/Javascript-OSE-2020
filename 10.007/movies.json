@@ -1,0 +1,22 @@
+[ 
+    {   "number": 1,   
+        "name": "Lord of the Rings: The Fellowship of the Ring",
+        "Publishing Year"   : "2001",
+        "Description" : "Frodo starts a long and difficult adventure to return the ring that rules over all to where everything started"
+          }, 
+    {   "number": 2,
+        "name": "Lord of the Rings: The Two Towers",
+        "Publishing Year"   : "2002",
+        "Description" : "After dividing the teams in two and losing Merry and Pippin, Aragorn, Legolas and Gimli are heading Rohan"
+          }, 
+    {   "number": 3,
+        "name": "Lord of the Rings: The Return of The King",
+        "Publishing Year"   : "2003",
+        "Description" : "After the battle in Helms Deep, the fellowship knows that is time for the last fight and now is time to face the Witch King in his kingdom"
+          }, 
+    {   "number": 4,
+        "name": "The Hobbit",
+        "Publishing Year"   : "2012",
+        "Description" : "The beggining of the ring that rules over all story with Bilbo"
+          }
+    ]
